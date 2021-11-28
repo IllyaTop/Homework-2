@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: green;
 }
 .bg-box {
     
@@ -13,5 +12,5 @@
                 url("../img/lamp.png") top / 4% repeat-x,
                 url("../img/Пончик.png") right / 4% repeat-y,
                 url("../img/Ёжик.png") left / 4% repeat-y;
-    
+    background-color: green;
 }
