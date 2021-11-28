@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: green;
+}
+.bg-box {
+    
+    height: 750px;
+    background: 
+                url("../img/grass.png") bottom / 20% repeat-x, 
+                url("../img/House.jpg") center / 30% no-repeat,
+                url("../img/lamp.png") top / 4% repeat-x,
+                url("../img/Пончик.png") right / 4% repeat-y,
+                url("../img/Ёжик.png") left / 4% repeat-y;
+    
+}
